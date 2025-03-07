@@ -4,8 +4,8 @@
 The following is a collection of various 3D and 2D models and drawings I have made. 
 
 ## 2.0 Samples:
-### Turbofan
 <table>
+  ### Turbofan
   <tr>
     <td><img src="images/TF1.png" alt="TF1" width="400"></td>
     <td><img src="images/TF2.png" alt="TF2" width="400"></td>
